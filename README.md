@@ -9,7 +9,7 @@ I was complited a Bachelor's degree in Computer Science Engineering, where I dev
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://www.linkedin.com/in/chavda-maypal-88b61a2bb/)
+[![LinkedIn](https://www.linkedin.com/in/chavda-maypal-88/)
 
 ###
 
