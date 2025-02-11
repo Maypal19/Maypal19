@@ -4,7 +4,9 @@
 I was complited a Bachelor's degree in Computer Science Engineering, where I developed strong skills in problem-solving.
 
 💻 Proficient in JavaScript, React.js.
+
 🔭 I’m currently working on Web Development projects.
+
 🌱 I’m currently learning MERN Stack
 
 
